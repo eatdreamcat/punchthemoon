@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bao",
+    "texture": "a3mCoPIW9O1ZgZRD9TdtGh",
+    "rect": [
+      0,
+      8,
+      747,
+      714
+    ],
+    "offset": [
+      -1.5,
+      10
+    ],
+    "originalSize": [
+      750,
+      750
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

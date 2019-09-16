@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lift_brother_9_1",
+    "texture": "2aX++BIsJAX4J0kaAxH4VT",
+    "rect": [
+      0,
+      2,
+      530,
+      711
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      530,
+      713
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

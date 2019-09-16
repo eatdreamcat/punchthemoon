@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guang02",
+    "texture": "e4A4H2RBdAKL9zGNC+5jFJ",
+    "rect": [
+      38,
+      2,
+      202,
+      247
+    ],
+    "offset": [
+      11,
+      2.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thief",
+    "texture": "2d+mQx8x9OBo/DHr7CDFN/",
+    "rect": [
+      0,
+      2,
+      634,
+      222
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      634,
+      224
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

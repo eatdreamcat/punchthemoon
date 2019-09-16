@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UnityWatermark-dev",
+    "texture": "43wovV/zBGEKd28pWqHrML",
+    "rect": [
+      1,
+      0,
+      112,
+      16
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      115,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

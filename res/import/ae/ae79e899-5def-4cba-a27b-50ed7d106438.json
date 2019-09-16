@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-pack_night (Group 0)-2048x2048-fmt47",
+    "texture": "956VgHS6pPgbQmmcuVbW5E",
+    "rect": [
+      0,
+      66,
+      1964,
+      1982
+    ],
+    "offset": [
+      -42,
+      -33
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

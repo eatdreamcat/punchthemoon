@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-pack_trees-1024x1024-fmt4",
+    "texture": "e1WuN6Pj5MkalGfVTZgp9o",
+    "rect": [
+      0,
+      357,
+      892,
+      667
+    ],
+    "offset": [
+      -66,
+      -178.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

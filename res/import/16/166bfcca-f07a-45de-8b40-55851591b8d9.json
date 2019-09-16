@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NC_p01",
+    "texture": "41L5inLE1Ck7XilAT2duTH",
+    "rect": [
+      2,
+      0,
+      427,
+      250
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      431,
+      252
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

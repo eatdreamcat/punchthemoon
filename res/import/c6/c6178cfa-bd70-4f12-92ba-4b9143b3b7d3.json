@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "help_cn #8936",
+    "texture": "76jDt6UMJLQ6ImNuxLhE+9",
+    "rect": [
+      11,
+      8,
+      572,
+      743
+    ],
+    "offset": [
+      0,
+      2.5
+    ],
+    "originalSize": [
+      594,
+      764
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

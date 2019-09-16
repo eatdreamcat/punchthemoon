@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_up_4",
+    "texture": "49hsNMAG5Kg7PkuBmoflgZ",
+    "rect": [
+      115,
+      3,
+      458,
+      512
+    ],
+    "offset": [
+      17.5,
+      4
+    ],
+    "originalSize": [
+      653,
+      526
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

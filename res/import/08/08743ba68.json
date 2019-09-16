@@ -1,0 +1,81 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "lift_brother_14_0",
+      "texture": "0dgTTeRJFDlaGFwaOjHIpl",
+      "rect": [
+        2,
+        2,
+        413,
+        582
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        417,
+        586
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "toss",
+    "_duration": 0.48333333333333334,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "f4A32Js8VGm74nJAnKGH6f"
+              }
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": {
+                "__uuid__": "7c7Lw33tRPj63QDaQVekS8"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "lift_brother_14_1",
+      "texture": "dcwceYgvRBa6w/9GeAKfpK",
+      "rect": [
+        2,
+        2,
+        441,
+        684
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        445,
+        688
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

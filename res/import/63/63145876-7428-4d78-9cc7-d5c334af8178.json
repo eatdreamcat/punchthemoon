@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gun_icon_01",
+    "texture": "80PYymHfpGlKuKUAfqeDMs",
+    "rect": [
+      2,
+      2,
+      47,
+      205
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      51,
+      207
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

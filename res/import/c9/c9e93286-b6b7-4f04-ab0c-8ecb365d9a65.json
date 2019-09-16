@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "player_drop_1",
+    "texture": "a3JbM3pG1P36a3BAPYF3Y8",
+    "rect": [
+      0,
+      0,
+      653,
+      390
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      653,
+      392
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

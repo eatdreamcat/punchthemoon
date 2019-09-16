@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-props-512x1024-fmt4",
+    "texture": "3aO8gOBVlHBIlY1F1NHgqO",
+    "rect": [
+      0,
+      164,
+      508,
+      860
+    ],
+    "offset": [
+      -2,
+      -82
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

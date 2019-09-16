@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-pack_ui (Group 1)-512x1024-fmt3",
+    "texture": "22G4I6KyxLD7aLVp87oD71",
+    "rect": [
+      0,
+      0,
+      512,
+      1024
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

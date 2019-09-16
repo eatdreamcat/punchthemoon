@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-CJ (Group 1)-64x512-fmt4",
+    "texture": "63y1xBJ/hB/YsMI3OlV+AA",
+    "rect": [
+      0,
+      0,
+      64,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

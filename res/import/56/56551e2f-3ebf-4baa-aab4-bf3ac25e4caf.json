@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UnitySplash-cube",
+    "texture": "daIog+JLFJkq9F4mP6JUSh",
+    "rect": [
+      325,
+      131,
+      1396,
+      762
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

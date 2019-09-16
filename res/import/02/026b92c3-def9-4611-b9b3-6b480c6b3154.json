@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-pack_buildings (Group 0)-2048x1024-fmt4",
+    "texture": "e8v3UwX2hHqJY9gr8914tL",
+    "rect": [
+      0,
+      164,
+      2005,
+      860
+    ],
+    "offset": [
+      -21.5,
+      -82
+    ],
+    "originalSize": [
+      2048,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

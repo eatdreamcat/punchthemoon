@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qiqui007",
+    "texture": "07b+2EDSFMX595fhrn9aqR",
+    "rect": [
+      35,
+      0,
+      218,
+      293
+    ],
+    "offset": [
+      -3,
+      0
+    ],
+    "originalSize": [
+      294,
+      293
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

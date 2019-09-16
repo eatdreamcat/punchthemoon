@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-thief_up-1024x512-fmt4",
+    "texture": "1bM3k/V1BBlbUrDeby5xPF",
+    "rect": [
+      0,
+      55,
+      887,
+      457
+    ],
+    "offset": [
+      -68.5,
+      -27.5
+    ],
+    "originalSize": [
+      1024,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

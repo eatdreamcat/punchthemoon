@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SpriteAtlasTexture-FARM (Group 1)-2048x2048-fmt47",
+    "texture": "23TbjyxmpHRard6fgbn760",
+    "rect": [
+      0,
+      732,
+      2048,
+      1316
+    ],
+    "offset": [
+      0,
+      -366
+    ],
+    "originalSize": [
+      2048,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
