@@ -2498,7 +2498,7 @@ window.__require = function e(t, n, r) {
           this.nextStep(LOAD_STEP.REGISTER);
           this.nextStep(LOAD_STEP.INIT);
         }
-        (true, "localhost" != window.document.domain) && (TableMgr_1.TableMgr.JSON_URL = "http://104.224.151.19:8080/Punchmoon/");
+        (true, "localhost" != window.document.domain) && (TableMgr_1.TableMgr.JSON_URL = "https://daythink.xyz:6060/Punchmoon/");
         TableMgr_1.TableMgr.inst.startLoad("json/", function() {
           GameFactory_1.gFactory.init(function() {
             this.nextStep(LOAD_STEP.JSON_PARSE);
